@@ -1,11 +1,61 @@
 {
-  "title": "The Basics - Networking",
-  "description": "Your app fetched this from a remote endpoint!",
-  "movies": [
-    { "id": "1", "title": "Star Wars", "releaseYear": "1977" },
-    { "id": "2", "title": "Back to the Future", "releaseYear": "1985" },
-    { "id": "3", "title": "The Matrix", "releaseYear": "1999" },
-    { "id": "4", "title": "Inception", "releaseYear": "2010" },
-    { "id": "5", "title": "Interstellar", "releaseYear": "2014" }
-  ]
+  "name": "Wajahat Ahmad",,
+  "Expertice": ['MERN Stack Dev', 'Backend Dev', 'Cloud Solution Architect'],
+  "description": "I am Computer Science Student and aspiring to become entrepreneur, MERN stack developer, DevOps Engineer and Backend Developer",
+  "skills": [
+    "Languages":[
+      {"skill": "Python"},
+      {"skill": "JavaScript"},
+      {"skill": "Java"},
+      {"skill": "C++"},
+      {"skill": "PHP"}
+    ],
+    "Frontend":[
+      {"skill": "HTML"},
+      {"skill": "CSS"},
+      {"skill": "JS"},
+      {"skill": "React"},
+      {"skill": "React Native"}
+    ],
+    "backend":[
+      {"skill": "Java"},
+      {"skill": "JS"},
+      {"skill": "Node.js"},
+      {"skill": "PHP"}
+    ],
+    "Databases":[
+      {"skill": "Mongo"},
+      {"skill": "MySQL"},
+      {"skill": "Oracle"},
+      {"skill": "Firebase"}     
+    ],
+    "Others":[
+      {"skill": "Git"},
+      {"skill": "GitHub"}]
+	],
+	"hobbies": [
+    "Coding", 
+    "Basketball", 
+    "Table Tennis", 
+    "Chilling", 
+    "Gyming"
+  ],
+	"projects": [
+    {
+			"name": "AiDuko",
+      "description": "Sudoku Solver that solves almost any Sudoku Puzzle by visualizing through the Backtracking Algorithm."
+		},
+		{
+			"name": "Sticker.pk",
+       "description": "(Client Project)E-commerce application for selling Strickers and other related stuff."
+		},
+		{
+			"name": "HangMan",
+       "description": "(Client Project)Hang Man game in JavaFx."
+		},
+		{
+			"name": "PaintApp",
+       "description": "(Client Project)Paint App in JavaFx."
+		}
+	]
 }
