@@ -1,65 +1,115 @@
 {
-  "name": "Wajahat Ahmad",,
-  "Expertice": [
-	   {"skill": "MERN Stack Dev"},
-	   {"skill": "Backend Dev"},
-	   {"skill": "Cloud Solution Architect"}
-  ],
-  "description": "I am Computer Science Student and aspiring to become entrepreneur, MERN stack developer, DevOps Engineer and Backend Developer",
-  "skills": [
-    "Languages":[
-      {"skill": "Python"},
-      {"skill": "JavaScript"},
-      {"skill": "Java"},
-      {"skill": "C++"},
-      {"skill": "PHP"}
-    ],
-    "Frontend":[
-      {"skill": "HTML"},
-      {"skill": "CSS"},
-      {"skill": "JS"},
-      {"skill": "React"},
-      {"skill": "React Native"}
-    ],
-    "backend":[
-      {"skill": "Java"},
-      {"skill": "JS"},
-      {"skill": "Node.js"},
-      {"skill": "PHP"}
-    ],
-    "Databases":[
-      {"skill": "Mongo"},
-      {"skill": "MySQL"},
-      {"skill": "Oracle"},
-      {"skill": "Firebase"}     
-    ],
-    "Others":[
-      {"skill": "Git"},
-      {"skill": "GitHub"}]
+	"name": "Wajahat Ahmad",
+
+	"Expertice": [{
+			"skill": "MERN Stack Dev"
+		},
+		{
+			"skill": "Backend Dev"
+		},
+		{
+			"skill": "Cloud Solution Architect"
+		}
+	],
+	"description": "I am Computer Science Student and aspiring to become entrepreneur, MERN stack developer, DevOps Engineer and Backend Developer",
+	"skills": [{
+			"Languages": [{
+					"skill": "Python"
+				},
+				{
+					"skill": "JavaScript"
+				},
+				{
+					"skill": "Java"
+				},
+				{
+					"skill": "C++"
+				},
+				{
+					"skill": "PHP"
+				}
+			]
+		},
+		{
+			"Frontend": [{
+					"skill": "HTML"
+				},
+				{
+					"skill": "CSS"
+				},
+				{
+					"skill": "JS"
+				},
+				{
+					"skill": "React"
+				},
+				{
+					"skill": "React Native"
+				}
+			]
+		},
+		{
+			"backend": [{
+					"skill": "Java"
+				},
+				{
+					"skill": "JS"
+				},
+				{
+					"skill": "Node.js"
+				},
+				{
+					"skill": "PHP"
+				}
+			]
+		},
+		{
+			"Databases": [{
+					"skill": "Mongo"
+				},
+				{
+					"skill": "MySQL"
+				},
+				{
+					"skill": "Oracle"
+				},
+				{
+					"skill": "Firebase"
+				}
+			]
+		},
+		{
+			"Others": [{
+					"skill": "Git"
+				},
+				{
+					"skill": "GitHub"
+				}
+			]
+		}
 	],
 	"hobbies": [
-    "Coding", 
-    "Basketball", 
-    "Table Tennis", 
-    "Chilling", 
-    "Gyming"
-  ],
-	"projects": [
-    {
+		"Coding",
+		"Basketball",
+		"Table Tennis",
+		"Chilling",
+		"Gyming"
+	],
+	"projects": [{
 			"name": "AiDuko",
-      "description": "Sudoku Solver that solves almost any Sudoku Puzzle by visualizing through the Backtracking Algorithm."
+			"description": "Sudoku Solver that solves almost any Sudoku Puzzle by visualizing through the Backtracking Algorithm."
 		},
 		{
 			"name": "Sticker.pk",
-       "description": "(Client Project)E-commerce application for selling Strickers and other related stuff."
+			"description": "(Client Project)E-commerce application for selling Strickers and other related stuff."
 		},
 		{
 			"name": "HangMan",
-       "description": "(Client Project)Hang Man game in JavaFx."
+			"description": "(Client Project)Hang Man game in JavaFx."
 		},
 		{
 			"name": "PaintApp",
-       "description": "(Client Project)Paint App in JavaFx."
+			"description": "(Client Project)Paint App in JavaFx."
 		}
 	]
 }
