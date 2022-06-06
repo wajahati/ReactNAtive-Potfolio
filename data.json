@@ -1,6 +1,10 @@
 {
   "name": "Wajahat Ahmad",,
-  "Expertice": ['MERN Stack Dev', 'Backend Dev', 'Cloud Solution Architect'],
+  "Expertice": [
+	   {"skill": "MERN Stack Dev"},
+	   {"skill": "Backend Dev"},
+	   {"skill": "Cloud Solution Architect"}
+  ],
   "description": "I am Computer Science Student and aspiring to become entrepreneur, MERN stack developer, DevOps Engineer and Backend Developer",
   "skills": [
     "Languages":[
