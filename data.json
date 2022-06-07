@@ -12,81 +12,15 @@
 		}
 	],
 	"description": "I am Computer Science Student and aspiring to become entrepreneur, MERN stack developer, DevOps Engineer and Backend Developer",
-	"skills": [{
-			"Languages": [{
-					"skill": "Python"
-				},
-				{
-					"skill": "JavaScript"
-				},
-				{
-					"skill": "Java"
-				},
-				{
-					"skill": "C++"
-				},
-				{
-					"skill": "PHP"
-				}
-			]
-		},
-		{
-			"Frontend": [{
-					"skill": "HTML"
-				},
-				{
-					"skill": "CSS"
-				},
-				{
-					"skill": "JS"
-				},
-				{
-					"skill": "React"
-				},
-				{
-					"skill": "React Native"
-				}
-			]
-		},
-		{
-			"backend": [{
-					"skill": "Java"
-				},
-				{
-					"skill": "JS"
-				},
-				{
-					"skill": "Node.js"
-				},
-				{
-					"skill": "PHP"
-				}
-			]
-		},
-		{
-			"Databases": [{
-					"skill": "Mongo"
-				},
-				{
-					"skill": "MySQL"
-				},
-				{
-					"skill": "Oracle"
-				},
-				{
-					"skill": "Firebase"
-				}
-			]
-		},
-		{
-			"Others": [{
-					"skill": "Git"
-				},
-				{
-					"skill": "GitHub"
-				}
-			]
-		}
+	"skills":[{"Languages": ["Python","JavaScript","Java","C++","PHP"}
+		,
+		{"Frontend": ["HTML","CSS","JS","React","React Native"]}
+		,
+		{"backend": ["Java", "JS", "Node.js", "PHP"]}
+		,
+		{"Databases": ["Mongo", "MySQL", "Oracle","Firebase"]}
+		,
+		{"Others": ["Git", "GitHub"]}
 	],
 	"hobbies": [
 		"Coding",
