@@ -12,15 +12,21 @@
 		}
 	],
 	"description": "I am Computer Science Student and aspiring to become entrepreneur, MERN stack developer, DevOps Engineer and Backend Developer",
-	"skills":[{"Languages": ["Python","JavaScript","Java","C++","PHP"}
-		,
-		{"Frontend": ["HTML","CSS","JS","React","React Native"]}
-		,
-		{"backend": ["Java", "JS", "Node.js", "PHP"]}
-		,
-		{"Databases": ["Mongo", "MySQL", "Oracle","Firebase"]}
-		,
-		{"Others": ["Git", "GitHub"]}
+	"skills": [{
+			"Languages": ["Python", "JavaScript", "Java", "C++", "PHP"]
+		},
+		{
+			"Frontend": ["HTML", "CSS", "JS", "React", "React Native"]
+		},
+		{
+			"backend": ["Java", "JS", "Node.js", "PHP"]
+		},
+		{
+			"Databases": ["Mongo", "MySQL", "Oracle", "Firebase"]
+		},
+		{
+			"Others": ["Git", "GitHub"]
+		}
 	],
 	"hobbies": [
 		"Coding",
